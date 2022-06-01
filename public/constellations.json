@@ -96,5 +96,12 @@
     "meaning": "Sails",
     "starsWithPlanets": 7,
     "quadrant": "SQ2"
+  },
+  {
+    "id": "5555",
+    "name": "Long",
+    "meaning": "Dragon",
+    "starsWithPlanets": 1000000000,
+    "quadrant": "NQ1"
   }
 ]
